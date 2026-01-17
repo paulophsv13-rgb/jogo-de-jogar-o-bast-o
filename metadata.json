@@ -1,0 +1,5 @@
+{
+  "name": "Jogue o Bastão",
+  "description": "Um jogo de ação frenético onde você lança seu bastão para destruir caixas que caem. Inclui física realística e comentários de combate via IA.",
+  "requestFramePermissions": []
+}
